@@ -17,12 +17,12 @@
 		<dependency>
 			<groupId>com.pipipark.j</groupId>
 			<artifactId>Bootclick</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.pipipark.j</groupId>
 			<artifactId>Windows</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 
